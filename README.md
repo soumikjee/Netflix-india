@@ -1,2 +1,2 @@
 # Netflix-india
-![Alt text]()
+![Alt text](Demo.png)
